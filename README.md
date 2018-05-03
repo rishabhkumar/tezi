@@ -1,4 +1,4 @@
-# Tezi
+# Tezi (Not Good)
 A function that bypasses the event loop to provide an accurate Timeout feature.
 
 ## Why not the usual setTimeout()
@@ -17,4 +17,4 @@ tezi.newTimeout(500, (err, data) => {
 });
 ``` 
 
-![proofimg](./bhai.png)
+![proofimg](./bhai.PNG)
